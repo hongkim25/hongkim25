@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<<<<<<< HEAD
 I want to make things much prettier!
+=======
+I want to make things prettier.
+>>>>>>> 936db87b389d529f35ea0205d07e07d154cc966c
