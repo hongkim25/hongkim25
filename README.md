@@ -1,5 +1,5 @@
-## Hi there!
 
+<<<<<<< HEAD
 <!--
 **hongkim25/hongkim25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I want to make things much prettier!!!!!
+=======
+>>>>>>> 7f4fcfc096af8fd738ff39e0f639dedc901adad5
