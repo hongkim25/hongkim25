@@ -1,2 +1,2 @@
-I want to make things much prettier
-Test change.
+I want to make things prettier.
+Second test change - debugging workflow
