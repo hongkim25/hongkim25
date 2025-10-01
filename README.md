@@ -1,6 +1,16 @@
-# Hello!!
+<div align="center">
 
-[[The Life Transition Project](https://github.com/hongkim25/TLTP)]: 1 August 2025 - 30 April 2026 
+# Hello!! 👋
 
-[[Blog](https://hongkim.hashnode.dev)]
+### Projects
 
+[The Life Transition Project](https://github.com/hongkim25/TLTP)  
+*1 August 2025 - 30 April 2026*
+
+---
+
+### Links
+
+[📝 Blog](https://hongkim.hashnode.dev)
+
+</div>
