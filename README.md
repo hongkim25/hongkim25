@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello!! 👋
+# Hello!!
 
 
 [The Life Transition Project](https://github.com/hongkim25/TLTP)  
